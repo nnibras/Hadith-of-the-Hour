@@ -7,12 +7,5 @@
 
 body {
   font-family: "Kitab", sans-serif;
-}
-
-select {
-  text-align-last: center;
-}
-
-select {
-  background-color: white;
+  height: 100vh;
 }
