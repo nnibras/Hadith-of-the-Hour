@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Kitab";
+  src: url("../fonts/Kitab-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Kitab", sans-serif;
+}
+
+select {
+  text-align-last: center;
+}
+
+select {
+  background-color: white;
+}
